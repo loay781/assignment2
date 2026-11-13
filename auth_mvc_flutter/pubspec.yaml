@@ -1,0 +1,16 @@
+name: student_auth_mvc
+description: نظام مصادقة طلابي بنمط MVC وRepository Pattern مع مقارنة GetX وRiverpod.
+publish_to: 'none'
+version: 1.1.0+2
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  flutter_riverpod: ^2.6.1
+
+flutter:
+  uses-material-design: true
